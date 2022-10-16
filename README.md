@@ -1,6 +1,7 @@
 # Proyecto-Final
 
-Corresponde a un menú interactivo de un restaurant ficticio, en el cual podemos seleccionar productos, los que seran enviados a nuestro carrito
-para finalizar la compra y agendar el pedido.
-Cuenta con filtros para mostrar productos según categoria (pizzas, hamburguesas, cocteles, etc) y
-Suscripción via e-mail para "recibir promociones".
+Corresponde a un menú interactivo de un restaurant ficticio.
+En teoria, el cliente llega al local, escanea un codigo qr y se despliega esta pagina para mostrar la variedad de productos a elegir. Se registra su elección
+y se le llevan los productos a su mesa.
+
+
