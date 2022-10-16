@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="/Proyecto Final/img/icono-pestana.png">
+
+    <title>FastFood Restaurant</title>
+    <script src="https://kit.fontawesome.com/df59baf6b8.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="htps://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="/Proyecto Final/style.css">
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+ 
+
+    
+    <ul>
+        <li><a id="home" button="#home">Home🏠</a></li>
+        <li><a id="burgers" button="#news">BURGERS🍔</a></li>
+        <li><a id="pizzas" button="#contact">PIZZAS🍕</a></li>
+        <li><a id="cocteles" button="#about">CÓCTELES🍹</a></li>
+        <li><a id="sub" button="#subscription">...REGISTRATE!</a></li>
+                
+      </ul>
+
+    </head>
+    
+    <a href="#" class="btn-flotante" id="boton-carrito"><span id="contadorCarrito">0</span><i class="fas fa-shopping-cart"></i></a>
+
+<body>
+    
+<center style="font-size: 100px ; color: orange; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;" id="titular">Los favoritos del Chef</center>
+    <main id="contenedor-productos">
+
+    </main>
+    <div class="modal-contenedor">
+        <div class="modal-carrito">
+            <h3>Productos seleccionados</h3>
+            <button id="carritoCerrar"><i class="fas fa-times-circle"></i></button>
+            <div id="carrito-contenedor">
+                
+            </div>
+            <p class="precioProducto">Precio total: $<span id="precioTotal">0</span></p>
+            <button id="vaciar-carrito" class="boton-agregar">Vaciar carrito</button>
+            <button id="finalizar-compra" class="boton-finalizar">Finalizar Compra</button>       
+        </div>
+    </div>
+
+    <div class="nuevo-modal">
+        <div class="modal-registro">
+
+        }</div>
+    </div>
+    
+   <body background="/Proyecto Final/img/fondo-html.jpg">
+
+<script src="/Proyecto Final/modal.js"></script>
+<script src="/Proyecto Final/app.js"></script>
+
+</body>
+</html>

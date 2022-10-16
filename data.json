@@ -1,0 +1,98 @@
+ [
+    {
+        "id": 1,
+        "categoria": "Burger",
+        "nombre": "Burger Simple",
+        "precio": 5490,
+        "img": "./img/simple_burger.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "categoria": "Burger",
+        "nombre": "Porky Burger",
+        "precio": 7490,
+        "img": "./img/porky_burger.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 3,
+        "categoria": "Burger",
+        "nombre": "Rings Burger",
+        "precio": 6990,
+        "img": "./img/rings_burger.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 4,
+        "categoria": "Burger",
+        "nombre": "Bacon Cheese Burger",
+        "precio": 7490,
+        "img": "./img/bacon_cheese_burger.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 5,
+        "categoria": "Pizza",
+        "nombre": "La Pepperoni",
+        "precio": 12900,
+        "img": "./img/pizza1.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 6,
+        "categoria": "Pizza",
+        "nombre": "La Pesto",
+        "precio": 13900,
+        "img": "./img/pizza2.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 7,
+        "categoria": "Pizza",
+        "nombre": "La Italiana",
+        "precio": 12900,
+        "img": "./img/pizza3.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 8,
+        "categoria": "Pizza",
+        "nombre": "La Vegetariana",
+        "precio": 12900,
+        "img": "./img/pizza4.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 9,
+        "categoria": "Cocteles",
+        "nombre": "Mojito",
+        "precio": 4900,
+        "img": "./img/mojito.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 10,
+        "categoria": "Cocteles",
+        "nombre": "Daiquiri",
+        "precio": 5490,
+        "img": "./img/daiquiri.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 11,
+        "categoria": "Cocteles",
+        "nombre": "Piña Colada",
+        "precio": 5490,
+        "img": "./img/pina_colada.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 12,
+        "categoria": "Cocteles",
+        "nombre": "Tom Collins",
+        "precio": 5490,
+        "img": "./img/tom_collins.jpg",
+        "cantidad": 1 
+    }
+]
